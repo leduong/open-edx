@@ -1,0 +1,48 @@
+[submodule "edx-platform"]
+	path = edx-platform
+	url = https://github.com/edx/edx-platform.git
+[submodule "devstack"]
+	path = devstack
+	url = https://github.com/edx/devstack.git
+[submodule "cs_comments_service"]
+	path = cs_comments_service
+	url = https://github.com/edx/cs_comments_service.git
+[submodule "course-discovery"]
+	path = course-discovery
+	url = https://github.com/edx/course-discovery.git
+[submodule "ecommerce"]
+	path = ecommerce
+	url = https://github.com/edx/ecommerce.git
+[submodule "credentials"]
+	path = credentials
+	url = https://github.com/edx/credentials.git
+[submodule "edx-notes-api"]
+	path = edx-notes-api
+	url = https://github.com/edx/edx-notes-api.git
+[submodule "frontend-app-learning"]
+	path = frontend-app-learning
+	url = https://github.com/edx/frontend-app-learning.git
+[submodule "frontend-app-payment"]
+	path = frontend-app-payment
+	url = https://github.com/edx/frontend-app-payment.git
+[submodule "frontend-app-publisher"]
+	path = frontend-app-publisher
+	url = https://github.com/edx/frontend-app-publisher.git
+[submodule "frontend-app-gradebook"]
+	path = frontend-app-gradebook
+	url = https://github.com/edx/frontend-app-gradebook.git
+[submodule "registrar"]
+	path = registrar
+	url = https://github.com/edx/registrar.git
+[submodule "frontend-app-program-console"]
+	path = frontend-app-program-console
+	url = https://github.com/edx/frontend-app-program-console.git
+[submodule "frontend-app-library-authoring"]
+	path = frontend-app-library-authoring
+	url = https://github.com/edx/frontend-app-library-authoring.git
+[submodule "frontend-app-course-authoring"]
+	path = frontend-app-course-authoring
+	url = https://github.com/edx/frontend-app-course-authoring.git
+[submodule "xqueue"]
+	path = xqueue
+	url = https://github.com/edx/xqueue.git
